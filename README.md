@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm eduard gurchiani</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/cute-smiling-caricature-busy-coding-website-vector-illustration-cartoon_969863-835.jpg">
+<img align="right" alt="Coding" width="500" src="https://img.freepik.com/premium-vector/cute-smiling-caricature-busy-coding-website-vector-illustration-cartoon_969863-835.jpg">
 
 
 - 🔭 my latest project [UQ](http://uqedu.org)
