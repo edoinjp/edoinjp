@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="500" src="https://storage.googleapis.com/pai-images/841a9f741ca440c5b071a8d01fac38cc.jpeg">
 
 
-- 🔭 my latest project [UQ](http://uqedu.org)
+- 🔭 my latest project [UQ](http://www.uqedu.org)
 
 - 👯 recent project [friends for benefits](http://friends4benefits-c2cabb89a5bb.herokuapp.com)
 
