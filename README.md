@@ -2,7 +2,6 @@
 <h3 align="center">frontend developer</h3>
 <img align="right" alt="Coding" width="500" src="https://storage.googleapis.com/pai-images/841a9f741ca440c5b071a8d01fac38cc.jpeg">
 
-https://edoinjp.github.io/web-portfolio/
 🔭 my portfolio [portfolio](https://edoinjp.github.io/web-portfolio)
 
 🔭 my latest project [UQ](http://www.uqedu.org)
