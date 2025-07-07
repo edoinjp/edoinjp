@@ -8,7 +8,7 @@
 
 👯 recent project [friends for benefits](http://friends4benefits-c2cabb89a5bb.herokuapp.com)
 
-📫 How to reach me **edoinjp@gmail.com**
+📫 How to reach me **eduardgurchiani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
