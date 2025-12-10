@@ -4,9 +4,6 @@
 
 👨‍💻 my portfolio [web portfolio](https://edoinjp.github.io/web-portfolio)
 
-🔭 my latest project [UQ](http://www.uqedu.org)
-
-👯 recent project [friends for benefits](http://friends4benefits-c2cabb89a5bb.herokuapp.com)
 
 📫 How to reach me **eduardgurchiani@gmail.com**
 
